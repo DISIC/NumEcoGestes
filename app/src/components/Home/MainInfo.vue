@@ -30,7 +30,7 @@ export default {
     },
 
     isBadgeActive(badge) {
-      return (this.score > badge.points)
+      return (this.score >= badge.points)
     },
 
     getBadgeIcon(badge) {
