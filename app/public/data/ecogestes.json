@@ -82,11 +82,11 @@
   "teletravail": {
     "title": "Favoriser le télétravail pour limiter la consommation d'électricité",
     "thanks": "Merci pour votre contribution, chaque geste compte !",
-    "description": "Le télétravail permet de moins chauffer les espaces de bureaux ce qui induit une économie d'électricité. Cependant, il faut être vigilant vis-à-vis des reports de consommation à domicile, notamment de chauffage et de cuisine.",
+    "description": "Le télétravail permet de moins se déplacer, notamment en évitant les déplacements les plus impactants en terme de consommation d'énergie et d'émissions de gaz à effet de serre. Cependant, il faut être vigilant vis-à-vis des reports de consommation à domicile, notamment de chauffage et de cuisine.",
     "sources": "Données : ADEME, l'Obs, RTE.",
     "tag": "je-baisse",
     "points": 6,
     "credit": "Image : rawpixel.com",
-    "collectiveEffort": "Le télétravail permet de moins chauffer les espaces de bureaux ce qui induit une économie d'électricité. Cependant, il faut être vigilant vis-à-vis des reports de consommation à domicile, notamment de chauffage et de cuisine."
+    "collectiveEffort": "Le télétravail permet de moins se déplacer, notamment en évitant les déplacements les plus impactants en terme de consommation d'énergie et d'émissions de gaz à effet de serre. Cependant, il faut être vigilant vis-à-vis des reports de consommation à domicile, notamment de chauffage et de cuisine."
   }
 }
